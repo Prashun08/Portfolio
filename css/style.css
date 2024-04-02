@@ -16,7 +16,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #4d4d4d;
-  background: #fff;
+  background: #ececec;
 }
 
 #page {
@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #00eeff;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: rgba(109, 19, 131, 0.918);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -218,11 +218,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-header .display-tc .fh5co-social-icons li a i,
 .fh5co-cover .display-tc .fh5co-social-icons li a i {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: #9900ff;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -344,7 +344,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .info li .second-block {
   width: 60%;
   display: inline-block;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(5, 2, 2, 0.799);
 }
 
 .fh5co-social-icons {
@@ -441,7 +441,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   content: " ";
   width: 2px;
-  background-color: #e6e6e6;
+  background-color: #625353c1;
   left: 50%;
   margin-left: 0px;
 }
@@ -467,7 +467,7 @@ h1, h2, h3, h4, h5, h6, figure {
   text-transform: uppercase;
   letter-spacing: 5px;
   font-weight: bold;
-  background: #e6e6e6;
+  background: rgb(179, 163, 187);
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -589,7 +589,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: normal;
-  color: #bfbfbf;
+  color: #292222;
 }
 
 .timeline-body > p,
