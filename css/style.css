@@ -347,6 +347,10 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(5, 2, 2, 0.799);
 }
 
+#fh5co-started.fh5co-bg-dark{
+  background: #9900ff;
+}
+
 .fh5co-social-icons {
   margin: 0;
   padding: 0;
