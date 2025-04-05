@@ -683,6 +683,12 @@ h1, h2, h3, h4, h5, h6, figure {
 .progress-bar.progress-bar-5 {
   background-color: #27ae60 !important;
 }
+.progress-bar.progress-bar-5 {
+  background-color: #a4b42d !important;
+}
+.progress-bar.progress-bar-6 {
+  background-color: #7deee3 !important;
+}
 
 .chart {
   width: 160px;
